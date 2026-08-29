@@ -1,0 +1,13 @@
+﻿id_cliente,nome_cliente,data_cadastro,idade,valor_compra,categoria_produto,email
+101,  Ana Silva ,2023-01-15,28,"R$ 150,50",Eletrônicos,ana@email.com
+102,bruno souza,15/02/2023,34,"R$ 1.200,00",eletronicos,bruno@email.com
+103,CARLOS EDUARDO,2023.03.10,N/A,250.0,Roupas,carlos@email.com
+104,Daniela Lima,2023-04-05,42,"R$ 80,00",Casa,daniela@email.com
+105,  Eduardo Rocha,2023-05-12,29,"R$ 450,00",Eletrônicos,eduardo@email.com
+106,Fernanda alves,2023/06/18,unknown,"R$ 90,00",casa,fernanda@email.com
+107,Gabriel Cruz ,07-2023-20,51,"R$ 1.500,00",ROUPAS,gabriel@email.com
+108,Helena Ramos,2023-08-22,36,"R$ 310,20",Eletrônicos,helena@email.com
+109,Igor Santos,,23,"R$ 0,00",Roupas,igor@email.com
+110,Julia Martins,2023-10-05,30,"R$ 750,50",Casa,julia@email.com
+105,  Eduardo Rocha,2023-05-12,29,"R$ 450,00",Eletrônicos,eduardo@email.com
+112,  ,2023-12-01,-5,"R$ 120,00",Eletrônicos,erro_email_invalido
